@@ -1,0 +1,8 @@
+name = "Readr"
+uuid = "5925353d-d06c-43cd-8911-dbd2f60dfc30"
+authors = ["Spencer Nystrom <snystrom@users.noreply.github.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+uCSV = "e0b4c2ea-889f-54df-a5e0-fe74b3c892fd"
